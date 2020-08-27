@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding:0;
+}
+.carousel img{
+    width: 100%;
+    height: 92vh;
+}
+
+.sellspart{
+    margin: auto;
+    background-color: lightblue;
+}
+.forms {
+    max-width: 600px;
+    margin: auto;
+    border: 2px solid black;
+    background-color: #6f6f59;
+    color: white;
+}
+footer{
+    padding: 1px;
+    padding-top: 8px;
+}
